@@ -1,0 +1,6 @@
+== Related resources
+
+=== Getting Started guides
+
+* link:/guides/gs/related-guide-1/[gs-related-guide-1]
+* link:/guides/gs/related-guide-2/[gs-related-guide-2]
