@@ -4,3 +4,5 @@
 
 * link:/guides/gs/related-guide-1/[gs-related-guide-1]
 * link:/guides/gs/related-guide-2/[gs-related-guide-2]
+
+(For testing purposes: This sidebar is an Asciidoc document. This line is to be deleted when the real understanding document is written.)

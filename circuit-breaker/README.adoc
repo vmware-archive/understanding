@@ -1,3 +1,5 @@
 == Understanding the Circuit Breaker pattern
 
 Include more information about the circuit breaker pattern here
+
+(For testing purposes: This is an Asciidoc document. This line is to be deleted when the real understanding document is written.)
