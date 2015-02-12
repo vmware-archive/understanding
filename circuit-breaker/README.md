@@ -1,3 +1,0 @@
-# Understanding the Circuit Breaker pattern
-
-Include more information about the circuit breaker pattern here
